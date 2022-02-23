@@ -12,11 +12,11 @@ Este proyecto muestra los patrones de consumo eléctrico durante el uso de los o
 **Aplicaciones**: Delimitación a uso en ordenadores
 
 
-##Objetivo general: 
+## Objetivo general: 
 
  - Evaluar cuantitativamente el desempeño energético en ordenadores por medio del monitoreo de datos haciendo uso de plataformas y herramientas IoT.
 
-##Objetivos particulares: 
+## Objetivos particulares: 
 
  - Determinar el consumo energético en ordenadores a partir de las mediciones de voltaje y corriente almacenadas en una base de datos. 
  
@@ -24,11 +24,11 @@ Este proyecto muestra los patrones de consumo eléctrico durante el uso de los o
  
  - Monitorear recursos de hardware y desempeño energético en ordenadores a través de Node Red utilizando paneles de control personalizados.
 
-##Justificación: 
+## Justificación: 
 
 Determinar la relación costos
 
-##Integrantes del equipo: 
+## Integrantes del equipo: 
 
 María de los Ángeles Lino Suárez
 
@@ -38,7 +38,7 @@ Fernando Daniel Ramírez Cruz
 
 **Validado por**: 
 
-##Contenido temático
+## Contenido temático
 
 **Productos**: 
 
@@ -47,9 +47,9 @@ Fernando Daniel Ramírez Cruz
  - Infraestructuras on-premise.
  - Conocer patrones en consumo de energía.
 
-##Requisitos
+## Requisitos
 
-##Hardware
+## Hardware
 
 1. Alimentación del circuito 5V y 3.3V
 
@@ -90,7 +90,7 @@ Fernando Daniel Ramírez Cruz
  - Header Macho
  - Header Hembra
 
-##Software
+## Software
 
  - Node Red
  - Arduino con librerias MQTT y ESP8266
