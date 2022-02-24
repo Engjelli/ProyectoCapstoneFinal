@@ -12,11 +12,11 @@ Este proyecto muestra los patrones de consumo eléctrico durante el uso de los o
 **Aplicaciones**: Delimitación a uso en ordenadores
 
 
-## Objetivo general: 
+## Objetivo general
 
  - Evaluar cuantitativamente el desempeño energético en ordenadores por medio del monitoreo de datos haciendo uso de plataformas y herramientas IoT.
 
-## Objetivos particulares: 
+## Objetivos particulares
 
  - Determinar el consumo energético en ordenadores a partir de las mediciones de voltaje y corriente almacenadas en una base de datos. 
  
@@ -24,17 +24,25 @@ Este proyecto muestra los patrones de consumo eléctrico durante el uso de los o
  
  - Monitorear recursos de hardware y desempeño energético en ordenadores a través de Node Red utilizando paneles de control personalizados.
 
-## Justificación: 
+## Justificación
 
-Determinar la relación costos
+Si utilizamos una PC para tareas básicas como procesamiento de textos o incluso poder revisar nuestras redes sociales es probable que nuestro ordenador no demande demasiada energía. No obstante, si se trata de tareas más exigentes como edición de video, juegos o algún software en específico pueden causar un aumento considerable en el consumo de energía, además de un incremento en los costos en el recibo de luz. 
 
-## Integrantes del equipo: 
+Por consiguiente, el sistema de monitoreo que se propone tiene como finalidad apoyar a los usuarios de una oficina, empresa e incluso en un hogar que cuenten con varios ordenadores conocer su consumo energético. Con base en esta información se puede evaluar y tomar las medidas necesarias para poder disminuir dicho consumo y reducir los costos en el recibo de luz. 
 
-María de los Ángeles Lino Suárez
+## Integrantes del equipo
 
-Jessica Arzate Martínez
+María de los Ángeles Lino Suárez. 
 
-Fernando Daniel Ramírez Cruz
+Github: https://github.com/Engjelli
+
+Jessica Arzate Martínez. 
+
+Github: https://github.com/Jessica2123
+
+Fernando Daniel Ramírez Cruz. 
+
+Github: https://github.com/ferdanrc
 
 **Validado por**: 
 
@@ -47,11 +55,15 @@ Fernando Daniel Ramírez Cruz
  - Infraestructuras on-premise.
  - Conocer patrones en consumo de energía.
 
+## Funcionamiento del proyecto
+
+Video del funcionamiento del proyecto: https://youtu.be/SWLC1IwsTZM
+
 ## Requisitos
 
-## Hardware
+### Hardware
 
-1. Alimentación del circuito 5V y 3.3V
+**1. Alimentación del circuito 5V y 3.3V**
 
  - Cargador USB
  - Conector USB
@@ -60,19 +72,19 @@ Fernando Daniel Ramírez Cruz
  - Cable duplex
  - Cable con clavija
 
-2. Módulos de interface  y conversión de datos
+**2. Módulos de interface  y conversión de datos**
 
  - Microcontrolador
  - ADC
  
-3. Sensores y material de acoplamiento 
+**3. Sensores y material de acoplamiento**
 
  - Sensor de corriente
  - Sensor Voltaje
  - Jack Hembra 3.5mm
  - Cables Dupont
  
-4. Componentes para filtros y conexión del circuito
+**4. Componentes para filtros y conexión del circuito**
 
  - Resistencias 
  - Capacitores 
@@ -81,7 +93,7 @@ Fernando Daniel Ramírez Cruz
  - Alambre Negro
  - Alambre Rojo
 
-5. Material para la carcasa del circuito
+**5. Material para la carcasa del circuito**
 
  - Gabinete
  - Soldadura
@@ -90,7 +102,7 @@ Fernando Daniel Ramírez Cruz
  - Header Macho
  - Header Hembra
 
-## Software
+### Software
 
  - Node Red
  - Arduino con librerias MQTT y ESP8266
