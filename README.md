@@ -44,7 +44,7 @@ Fernando Daniel Ramírez Cruz.
 
 Github: https://github.com/ferdanrc
 
-**Validado por**: 
+**Validado por**: Paloma Vilchis y Hugo Vargas
 
 ## Contenido temático
 
