@@ -106,5 +106,4 @@ Video del funcionamiento del proyecto: https://youtu.be/SWLC1IwsTZM
 
  - Node Red
  - Arduino con librerias MQTT y ESP8266
- - Python
 
